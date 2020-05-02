@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RecordTV">
+    <display-name lang="pt">RecordTV</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1583006847.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Rio">
+    <display-name lang="pt">RecordTV Rio de Janeiro</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1574968679.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Brasília">
+    <display-name lang="pt">RecordTV Distrito Federal</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1582822331.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Minas">
+    <display-name lang="pt">RecordTV Belo Horizonte</display-name>
+    <icon src="https://www.lineup.tv.br/canais/redetiradentes.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV Belém">
+    <display-name lang="pt">RecordTV Pará</display-name>
+    <icon src="https://www.lineup.tv.br/canais/canal10-montevideo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <icon src="https://www.lineup.tv.br/canais/cristoviene.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RBA TV">
+    <display-name lang="pt">Band - RBA TV (PA)</display-name>
+    <icon src="https://www.lineup.tv.br/canais/intertv.gif|https://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <icon src="https://www.lineup.tv.br/canais/teleaire.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cultura">
+    <display-name lang="pt">TV Cultura</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1584822716.gif|https://www.lineup.tv.br/canais/1570380896.gif|https://www.lineup.tv.br/canais/1574361045.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Cultura do Pará">
+    <display-name lang="pt">Cultura Pará</display-name>
+    <icon src="https://www.lineup.tv.br/canais/c9n.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV8 Brasil</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1575342319.gif|https://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
