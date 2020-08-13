@@ -8,16 +8,3 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Pública", Cultura Pará
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tv8.png" group-title="Variedades", TV8 Brasil
-https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="http://static.bldn.vip/logos/premiere/combate.png" group-title="PREMIERE",COMBATE FHD
-http://blackplay.vip:80/0795/0795/5214
-
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://static.bldn.vip/logos/premiere/combate.png" group-title="PREMIERE",COMBATE HD
-http://blackplay.vip:80/0795/0795/5212
-
-#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigacao Discovery  | HD" tvg-logo="https://mpng.pngfly.com/20180425/kce/kisspng-investigation-discovery-television-show-television-id-5ae02359c8ac76.729127991524638553822.jpg" group-title="Séries",Investigacao Discovery  | HD
-
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="Documentários",Discovery Home & Health | FHD
