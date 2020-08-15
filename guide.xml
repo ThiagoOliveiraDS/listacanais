@@ -1,617 +1,372 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="RecordTV Belém">
-    <display-name lang="pt">RecordTV Pará</display-name>
-    <icon src="https://www.lineup.tv.br/canais/recordtv-belem.gif|https://www.lineup.tv.br/canais/recordtv.gif" />
+  <channel id="Combate FHD">
+    <display-name lang="pt">Combate FHD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/combate.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
-  <channel id="RBA TV">
-    <display-name lang="pt">Band - RBA TV (PA)</display-name>
-    <icon src="https://www.lineup.tv.br/canais/rbatv.gif|https://www.lineup.tv.br/canais/band.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Rede Cultura do Pará">
-    <display-name lang="pt">Cultura Pará</display-name>
-    <icon src="https://www.lineup.tv.br/canais/redecultura-pa.gif|https://www.lineup.tv.br/canais/cultura.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <programme start="20200813003000 -0300" stop="20200813004500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
-  </programme>
-  <programme start="20200813004500 -0300" stop="20200813014500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Inteligência e Fé</title>
-    <desc lang="pt">Comandado por Renato Cardoso.(n)</desc>
-  </programme>
-  <programme start="20200813014500 -0300" stop="20200813024500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
-  </programme>
-  <programme start="20200813024500 -0300" stop="20200813060000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Programação IURD</title>
-    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
-  </programme>
-  <programme start="20200813060000 -0300" stop="20200813063000 -0300" channel="RecordTV Belém">
-    <title lang="pt">IURD - Belém</title>
-    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
-  </programme>
-  <programme start="20200813063000 -0300" stop="20200813080000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Balanço Geral Manhã PA</title>
-    <desc lang="pt">Um programa para a população de Belém ficar muito bem informada com importantes informações logo nas primeiras horas do dia. O programa aborda as notícias da madrugada, informações do trânsito e destaques da manhã da cidade.(n)</desc>
-  </programme>
-  <programme start="20200813080000 -0300" stop="20200813084500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Fala Pará</title>
-    <desc lang="pt">Sob o comando da carismática Priscilla Amaral, o Fala Pará trabalha como aliado da população ao apresentar as principais notícias da região.(n)</desc>
-  </programme>
-  <programme start="20200813084500 -0300" stop="20200813100000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Fala Brasil</title>
-    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
-  </programme>
-  <programme start="20200813100000 -0300" stop="20200813114500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Hoje em Dia</title>
-    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.(n)</desc>
-  </programme>
-  <programme start="20200813114500 -0300" stop="20200813115000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
-  </programme>
-  <programme start="20200813115000 -0300" stop="20200813151500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Balanço Geral PA</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
-  </programme>
-  <programme start="20200813151500 -0300" stop="20200813160000 -0300" channel="RecordTV Belém">
-    <title lang="pt">A Escrava Isaura E220</title>
-    <desc lang="pt">Malvina chora ao lembrar-se de Leôncio. Álvaro suspeita que Rosa foi quem ajudou Branca a entrar na fazenda.(n)</desc>
-  </programme>
-  <programme start="20200813160000 -0300" stop="20200813164000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Os Mutantes E72</title>
-    <desc lang="pt">Danilo diz que irá trabalhar com moda, mas Aristóteles o proíbe. Aristóteles diz que fará Danilo se tornar um macho de verdade, mas ele se revolta e assume que é gay.(n)</desc>
-  </programme>
-  <programme start="20200813164000 -0300" stop="20200813164500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
-  </programme>
-  <programme start="20200813164500 -0300" stop="20200813175500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
-  </programme>
-  <programme start="20200813175500 -0300" stop="20200813180000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
-  </programme>
-  <programme start="20200813180000 -0300" stop="20200813191500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Cidade Alerta Pará</title>
-    <desc lang="pt">O programa, apresentado por Mariana Sena, leva a notícia de forma rápida e precisa, além de contar com a participação de repórteres em links ao vivo da região metropolitana de Belém.(n)</desc>
-  </programme>
-  <programme start="20200813191500 -0300" stop="20200813194500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Pará Record</title>
-    <desc lang="pt">Jornalismo ágil, reportagens exclusivas e prestação de serviços.(n)</desc>
-  </programme>
-  <programme start="20200813194500 -0300" stop="20200813203000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jornal da Record</title>
-    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
-  </programme>
-  <programme start="20200813203000 -0300" stop="20200813213000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Apocalipse E83</title>
-    <desc lang="pt">Ricardo faz um discurso contra a violência no mundo e é ovacionado.(n)</desc>
-  </programme>
-  <programme start="20200813213000 -0300" stop="20200813223000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jesus E88</title>
-    <desc lang="pt">Os apóstolos se surpreendem ao verem Maria, Miriam e as outras mulheres na cidade. Salomé pede para Adela não levá-la ao palácio.(n)</desc>
-  </programme>
-  <programme start="20200813223000 -0300" stop="20200813234500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Repórter Record Investigação</title>
-    <desc lang="pt">Denúncias exclusivas, temas polêmicos e grandes reportagens. O Repórter Record Investigação tem a missão de desvendar temas de interesse público.(n)</desc>
-  </programme>
-  <programme start="20200813234500 -0300" stop="20200814003000 -0300" channel="RecordTV Belém">
-    <title lang="pt">A Nova Super Máquina</title>
-    <desc lang="pt">Esta é a versão moderna do clássico dos anos 80 "A Super Máquina". O super carro vem equipado com inteligência artificial, capaz de hackear qualquer sistema. No episódio de estreia da série, Mike e KITT precisam entregar uma encomenda especial.(n)</desc>
-  </programme>
-  <programme start="20200814003000 -0300" stop="20200814004500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+  <programme start="20200815000000 -0300" stop="20200815023000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Fight Night - Cigano x Miocic</title>
+    <desc lang="pt">Acompanhe o confronto entre a Polonesa Joanna Jedrzejczyk e a brasileira Claudia Gadelha.(n)</desc>
   </programme>
-  <programme start="20200814004500 -0300" stop="20200814014500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Inteligência e Fé</title>
-    <desc lang="pt">Comandado por Renato Cardoso.(n)</desc>
+  <programme start="20200815023000 -0300" stop="20200815033000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814014500 -0300" stop="20200814024500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+  <programme start="20200815033000 -0300" stop="20200815043000 -0300" channel="Combate FHD">
+    <title lang="pt">Best of Pride</title>
+    <desc lang="pt">Wanderlei Silva x Quinton Jackson; Chuck Liddell x Alistair Overeem; Takanori Gomi x Charles Bennett; Anderson Silva x Carlos Newton; Mauricio Rua x Kevin Randleman.(n)</desc>
   </programme>
-  <programme start="20200814024500 -0300" stop="20200814060000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Programação IURD</title>
-    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
+  <programme start="20200815043000 -0300" stop="20200815070000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Fight Night - Cigano x Miocic</title>
+    <desc lang="pt">Acompanhe o confronto entre a Polonesa Joanna Jedrzejczyk e a brasileira Claudia Gadelha.(n)</desc>
   </programme>
-  <programme start="20200814060000 -0300" stop="20200814063000 -0300" channel="RecordTV Belém">
-    <title lang="pt">IURD - Belém</title>
-    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
+  <programme start="20200815070000 -0300" stop="20200815090000 -0300" channel="Combate FHD">
+    <title lang="pt">Contender Series 2020</title>
+    <desc lang="pt">Evento de MMA especializado em lutas femininas.(n)</desc>
   </programme>
-  <programme start="20200814063000 -0300" stop="20200814080000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Balanço Geral</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.(n)</desc>
+  <programme start="20200815090000 -0300" stop="20200815123000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC 252: Miocic x Cormier 3</title>
   </programme>
-  <programme start="20200814080000 -0300" stop="20200814084500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Fala Pará</title>
-    <desc lang="pt">Sob o comando da carismática Priscilla Amaral, o Fala Pará trabalha como aliado da população ao apresentar as principais notícias da região.(n)</desc>
+  <programme start="20200815123000 -0300" stop="20200815140000 -0300" channel="Combate FHD">
+    <title lang="pt">Arena Combate - Bjj Stars Gladiators</title>
+    <desc lang="pt">O Bjj Stars Gladiators foi realizado em Brasília, e contou com nomes como Cleber Clandestino, Walker Pacheco, Caio Caetano, Rodrigo Ribeiro, Luiz Marques, Leandro Lo e Celso Venicius.(n)</desc>
   </programme>
-  <programme start="20200814084500 -0300" stop="20200814100000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Fala Brasil</title>
-    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+  <programme start="20200815140000 -0300" stop="20200815160000 -0300" channel="Combate FHD">
+    <title lang="pt">Contender Series 2020</title>
+    <desc lang="pt">Evento de MMA especializado em lutas femininas.(n)</desc>
   </programme>
-  <programme start="20200814100000 -0300" stop="20200814114500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Hoje em Dia</title>
-    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.(n)</desc>
+  <programme start="20200815160000 -0300" stop="20200815193000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC 252: Miocic x Cormier 3</title>
   </programme>
-  <programme start="20200814114500 -0300" stop="20200814115000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+  <programme start="20200815193000 -0300" stop="20200815200000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814115000 -0300" stop="20200814151500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Balanço Geral PA</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+  <programme start="20200815200000 -0300" stop="20200815210000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Series</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
   </programme>
-  <programme start="20200814151500 -0300" stop="20200814160000 -0300" channel="RecordTV Belém">
-    <title lang="pt">A Escrava Isaura E221</title>
-    <desc lang="pt">Isaura vai até à prisão, conversa com Belchior e tenta convencê-lo a contar o que sabe.(n)</desc>
+  <programme start="20200815210000 -0300" stop="20200815230000 -0300" channel="Combate FHD">
+    <title lang="pt">Arena Combate</title>
   </programme>
-  <programme start="20200814160000 -0300" stop="20200814164000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Os Mutantes E73</title>
-    <desc lang="pt">Noé desperta lentamente e rouba um beijo de Maria. Eric é atropelado e uma senhora sai do carro apavorada.(n)</desc>
+  <programme start="20200815230000 -0300" stop="20200816010000 -0300" channel="Combate FHD">
+    <title lang="pt">Contender Series 2020</title>
+    <desc lang="pt">Evento de MMA especializado em lutas femininas.(n)</desc>
   </programme>
-  <programme start="20200814164000 -0300" stop="20200814164500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+  <programme start="20200816010000 -0300" stop="20200816013000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814164500 -0300" stop="20200814175500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+  <programme start="20200816013000 -0300" stop="20200816023000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Series</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
   </programme>
-  <programme start="20200814175500 -0300" stop="20200814180000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+  <programme start="20200816023000 -0300" stop="20200816043000 -0300" channel="Combate FHD">
+    <title lang="pt">Arena Combate</title>
   </programme>
-  <programme start="20200814180000 -0300" stop="20200814191500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Cidade Alerta Pará</title>
-    <desc lang="pt">O programa, apresentado por Mariana Sena, leva a notícia de forma rápida e precisa, além de contar com a participação de repórteres em links ao vivo da região metropolitana de Belém.(n)</desc>
+  <programme start="20200816043000 -0300" stop="20200816063000 -0300" channel="Combate FHD">
+    <title lang="pt">Contender Series 2020</title>
+    <desc lang="pt">Evento de MMA especializado em lutas femininas.(n)</desc>
   </programme>
-  <programme start="20200814191500 -0300" stop="20200814194500 -0300" channel="RecordTV Belém">
-    <title lang="pt">Pará Record</title>
-    <desc lang="pt">Jornalismo ágil, reportagens exclusivas e prestação de serviços.(n)</desc>
+  <programme start="20200816063000 -0300" stop="20200816064500 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814194500 -0300" stop="20200814203000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jornal da Record</title>
-    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+  <programme start="20200816064500 -0300" stop="20200816070000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814203000 -0300" stop="20200814213000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Apocalipse E84</title>
-    <desc lang="pt">Natália recebe um aviso sobre o incêndio. César corre para o local.(n)</desc>
+  <programme start="20200816070000 -0300" stop="20200816080000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814213000 -0300" stop="20200814223000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Jesus E89</title>
-    <desc lang="pt">Jesus enfrenta o olhar de Satanás e observa a tempestade em alto mar. Ele então desce o monte, decidido. Os apóstolos enfrentam as ondas e o mal tempo.(n)</desc>
+  <programme start="20200816080000 -0300" stop="20200816090000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200814223000 -0300" stop="20200815003000 -0300" channel="RecordTV Belém">
-    <title lang="pt">Super Tela: O Tigre e o Dragão</title>
-    <desc lang="pt">Uma história ambientada na antiga e milenar cidade de  Qin, na China. Mestre Li Mu Bai confia sua espada à sua companheira por quem é secretamente apaixonado. A valiosa espada é roubada, iniciando uma batalha entre o bem e o mal.(n)</desc>
+  <programme start="20200816090000 -0300" stop="20200816092000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200813005000 -0300" stop="20200813012500 -0300" channel="RBA TV">
-    <title lang="pt">Jornal da Noite</title>
-    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Análises, entrevistas e matérias especiais aprofundam os temas mais importantes.(n)</desc>
+  <programme start="20200816092000 -0300" stop="20200816093000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200813012500 -0300" stop="20200813013000 -0300" channel="RBA TV">
-    <title lang="pt">Que Fim Levou? - Boletim</title>
-    <desc lang="pt">A memória esportiva brasileira sendo resgatada.(n)</desc>
+  <programme start="20200816093000 -0300" stop="20200816130000 -0300" channel="Combate FHD">
+    <title lang="pt">Clássicos do UFC</title>
   </programme>
-  <programme start="20200813013000 -0300" stop="20200813021500 -0300" channel="RBA TV">
-    <title lang="pt">Justiça Implacável</title>
-    <desc lang="pt">Elijah Kane é o líder de um grupo de agentes especiais da polícia, encarregado que tirar de circulação os principais criminosos de Seatle. Mesmo com métodos nem sempre usuais.(n)</desc>
+  <programme start="20200816130000 -0300" stop="20200816140000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200813021500 -0300" stop="20200813024000 -0300" channel="RBA TV">
-    <title lang="pt">+info</title>
-    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+  <programme start="20200816140000 -0300" stop="20200816163000 -0300" channel="Combate FHD">
+    <title lang="pt">Clássicos do UFC</title>
   </programme>
-  <programme start="20200813024000 -0300" stop="20200813034500 -0300" channel="RBA TV">
-    <title lang="pt">Jornal da Band - Reapresentação</title>
-    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade.(n)</desc>
+  <programme start="20200816163000 -0300" stop="20200816173000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Series</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
   </programme>
-  <programme start="20200813034500 -0300" stop="20200813060000 -0300" channel="RBA TV">
-    <title lang="pt">1º Jornal</title>
-    <desc lang="pt">Um resumo dos fatos de ontem que vão influenciar o novo dia. A antecipação do que se espera desse novo dia, preparando o telespectador para o que vem pela frente.(n)</desc>
+  <programme start="20200816173000 -0300" stop="20200816185000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200813060000 -0300" stop="20200813063000 -0300" channel="RBA TV">
-    <title lang="pt">Prece Poderosa</title>
-    <desc lang="pt">Programa Religioso.(n)</desc>
+  <programme start="20200816185000 -0300" stop="20200816190000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200813063000 -0300" stop="20200813070000 -0300" channel="RBA TV">
-    <title lang="pt">Camisa 13</title>
-    <desc lang="pt">O programa é inovador porque apresenta notícias do esporte amador e profissional logo no início do dia.(n)</desc>
+  <programme start="20200816190000 -0300" stop="20200816200000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200813070000 -0300" stop="20200813075900 -0300" channel="RBA TV">
-    <title lang="pt">A Cidade Contra o Crime</title>
-    <desc lang="pt">Atender as demandas de segurança da população é o princípio desse programa.(n)</desc>
+  <programme start="20200816200000 -0300" stop="20200816203000 -0300" channel="Combate FHD">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate.(n)</desc>
   </programme>
-  <programme start="20200813075900 -0300" stop="20200813080000 -0300" channel="RBA TV">
-    <title lang="pt">Shop Mix</title>
-    <desc lang="pt">Em formato agradável e interativo, os apresentadores mostram na telinha produtos de qualidade, com variedades e preços acessíveis. Shop Mix um guia de compras na televisão.(n)</desc>
+  <programme start="20200816203000 -0300" stop="20200817000000 -0300" channel="Combate FHD">
+    <title lang="pt">Escolha Seu Combate</title>
   </programme>
-  <programme start="20200813080000 -0300" stop="20200813090000 -0300" channel="RBA TV">
-    <title lang="pt">Jornal Bora Brasil</title>
+  <programme start="20200817000000 -0300" stop="20200817020000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200813090000 -0300" stop="20200813110000 -0300" channel="RBA TV">
-    <title lang="pt">Aqui na BAND</title>
-    <desc lang="pt">As principais notícias do dia, dicas de saúde, bem-estar, moda, beleza e fofocas do momento estão aqui na Band.(n)</desc>
+  <programme start="20200817020000 -0300" stop="20200817030000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Series</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
   </programme>
-  <programme start="20200813110000 -0300" stop="20200813114500 -0300" channel="RBA TV">
-    <title lang="pt">Jogo Aberto</title>
-    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+  <programme start="20200817030000 -0300" stop="20200817040000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200813114500 -0300" stop="20200813124500 -0300" channel="RBA TV">
-    <title lang="pt">Metendo Bronca</title>
-    <desc lang="pt">O Metendo Bronca é um programa policial que utiliza uma linguagem informal e dinâmica para interagir com o público.(n)</desc>
+  <programme start="20200817040000 -0300" stop="20200817043000 -0300" channel="Combate FHD">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate.(n)</desc>
   </programme>
-  <programme start="20200813124500 -0300" stop="20200813135900 -0300" channel="RBA TV">
-    <title lang="pt">Barra Pesada</title>
-    <desc lang="pt">O Barra Pesada é um programa jornalístico-policial que tem como proposta divulgar os acontecimentos da comunidade, além da prestação de serviços de utilidade pública.(n)</desc>
+  <programme start="20200817043000 -0300" stop="20200817055000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200813135900 -0300" stop="20200813140000 -0300" channel="RBA TV">
-    <title lang="pt">Shop Mix</title>
-    <desc lang="pt">Em formato agradável e interativo, os apresentadores mostram na telinha produtos de qualidade, com variedades e preços acessíveis. Shop Mix um guia de compras na televisão.(n)</desc>
+  <programme start="20200817055000 -0300" stop="20200817060000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200813140000 -0300" stop="20200813150000 -0300" channel="RBA TV">
-    <title lang="pt">Igreja Universal</title>
-    <desc lang="pt">Informações aos fieis.(n)</desc>
+  <programme start="20200817060000 -0300" stop="20200817070000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200813150000 -0300" stop="20200813160000 -0300" channel="RBA TV">
-    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+  <programme start="20200817070000 -0300" stop="20200817080000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200813160000 -0300" stop="20200813165900 -0300" channel="RBA TV">
-    <title lang="pt">Brasil Urgente</title>
+  <programme start="20200817080000 -0300" stop="20200817090000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200813165900 -0300" stop="20200813170000 -0300" channel="RBA TV">
-    <title lang="pt">Shop Mix</title>
-    <desc lang="pt">Em formato agradável e interativo, os apresentadores mostram na telinha produtos de qualidade, com variedades e preços acessíveis. Shop Mix um guia de compras na televisão.(n)</desc>
+  <programme start="20200817090000 -0300" stop="20200817092000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200813170000 -0300" stop="20200813185000 -0300" channel="RBA TV">
-    <title lang="pt">Brasil Urgente</title>
+  <programme start="20200817092000 -0300" stop="20200817093000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200813185000 -0300" stop="20200813192000 -0300" channel="RBA TV">
-    <title lang="pt">Jornal RBA</title>
-    <desc lang="pt">Informação, modernidade e imparcialidade são palavras que definem o Jornal RBA.(n)</desc>
+  <programme start="20200817093000 -0300" stop="20200817130000 -0300" channel="Combate FHD">
+    <title lang="pt">Clássicos do UFC</title>
   </programme>
-  <programme start="20200813192000 -0300" stop="20200813202000 -0300" channel="RBA TV">
-    <title lang="pt">Jornal da Band</title>
-    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade.(n)</desc>
+  <programme start="20200817130000 -0300" stop="20200817140000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200813202000 -0300" stop="20200813211000 -0300" channel="RBA TV">
-    <title lang="pt">Ouro Verde</title>
-    <desc lang="pt">Após seus pais serem assassinados, Zé Maria foge para o Brasil e assume uma nova identidade. Anos depois, como Jorge Monforte, dono do império Ouro Verde, ele decide voltar para casa e vingar sua família.(n)</desc>
+  <programme start="20200817140000 -0300" stop="20200817163000 -0300" channel="Combate FHD">
+    <title lang="pt">Clássicos do UFC</title>
   </programme>
-  <programme start="20200813211000 -0300" stop="20200813220000 -0300" channel="RBA TV">
-    <title lang="pt">Religioso</title>
-    <desc lang="pt">Programa religioso da Igreja Mundial do Poder de Deus.(n)</desc>
+  <programme start="20200817163000 -0300" stop="20200817173000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Series</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
   </programme>
-  <programme start="20200813220000 -0300" stop="20200813224500 -0300" channel="RBA TV">
-    <title lang="pt">Band Notícias</title>
-    <desc lang="pt">Programa jornalístico com opinião e foco nos principais temas do dia, complementando os noticiários da Band.(n)</desc>
+  <programme start="20200817173000 -0300" stop="20200817185000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200813224500 -0300" stop="20200814000000 -0300" channel="RBA TV">
-    <title lang="pt">Na Linha de Frente</title>
-    <desc lang="pt">O programa mostra o dia a dia dos profissionais que estão na linha de frente combatendo o crime e salvando vidas.(n)</desc>
+  <programme start="20200817185000 -0300" stop="20200817190000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200814000000 -0300" stop="20200814004000 -0300" channel="RBA TV">
-    <title lang="pt">Jornal da Noite</title>
-    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Análises, entrevistas e matérias especiais aprofundam os temas mais importantes.(n)</desc>
+  <programme start="20200817190000 -0300" stop="20200817200000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814004000 -0300" stop="20200814004500 -0300" channel="RBA TV">
-    <title lang="pt">Que Fim Levou? - Boletim</title>
-    <desc lang="pt">A memória esportiva brasileira sendo resgatada.(n)</desc>
+  <programme start="20200817200000 -0300" stop="20200817203000 -0300" channel="Combate FHD">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate.(n)</desc>
   </programme>
-  <programme start="20200814004500 -0300" stop="20200814013500 -0300" channel="RBA TV">
-    <title lang="pt">Justiça Implacável</title>
-    <desc lang="pt">Elijah Kane é o líder de um grupo de agentes especiais da polícia, encarregado que tirar de circulação os principais criminosos de Seatle. Mesmo com métodos nem sempre usuais.(n)</desc>
+  <programme start="20200817203000 -0300" stop="20200818000000 -0300" channel="Combate FHD">
+    <title lang="pt">Escolha Seu Combate</title>
   </programme>
-  <programme start="20200814013500 -0300" stop="20200814024000 -0300" channel="RBA TV">
-    <title lang="pt">+info</title>
-    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+  <programme start="20200818000000 -0300" stop="20200818020000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200814024000 -0300" stop="20200814034500 -0300" channel="RBA TV">
-    <title lang="pt">Jornal da Band - Reapresentação</title>
-    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade.(n)</desc>
+  <programme start="20200818020000 -0300" stop="20200818030000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Series</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
   </programme>
-  <programme start="20200814034500 -0300" stop="20200814060000 -0300" channel="RBA TV">
-    <title lang="pt">1º Jornal</title>
-    <desc lang="pt">Um resumo dos fatos de ontem que vão influenciar o novo dia. A antecipação do que se espera desse novo dia, preparando o telespectador para o que vem pela frente.(n)</desc>
+  <programme start="20200818030000 -0300" stop="20200818040000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814060000 -0300" stop="20200814063000 -0300" channel="RBA TV">
-    <title lang="pt">Prece Poderosa</title>
-    <desc lang="pt">Programa Religioso.(n)</desc>
+  <programme start="20200818040000 -0300" stop="20200818043000 -0300" channel="Combate FHD">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate.(n)</desc>
   </programme>
-  <programme start="20200814063000 -0300" stop="20200814070000 -0300" channel="RBA TV">
-    <title lang="pt">Camisa 13</title>
-    <desc lang="pt">O programa é inovador porque apresenta notícias do esporte amador e profissional logo no início do dia.(n)</desc>
+  <programme start="20200818043000 -0300" stop="20200818055000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200814070000 -0300" stop="20200814075900 -0300" channel="RBA TV">
-    <title lang="pt">Cidade Contra o Crime com Luiz Eduardo Anaice</title>
-    <desc lang="pt">Atender as demandas de segurança da população é o princípio desse programa.(n)</desc>
+  <programme start="20200818055000 -0300" stop="20200818060000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200814075900 -0300" stop="20200814080000 -0300" channel="RBA TV">
-    <title lang="pt">Shop Mix</title>
-    <desc lang="pt">Em formato agradável e interativo, os apresentadores mostram na telinha produtos de qualidade, com variedades e preços acessíveis. Shop Mix um guia de compras na televisão.(n)</desc>
+  <programme start="20200818060000 -0300" stop="20200818070000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200814080000 -0300" stop="20200814090000 -0300" channel="RBA TV">
-    <title lang="pt">Jornal Bora Brasil</title>
+  <programme start="20200818070000 -0300" stop="20200818080000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814090000 -0300" stop="20200814110000 -0300" channel="RBA TV">
-    <title lang="pt">Aqui na BAND</title>
-    <desc lang="pt">As principais notícias do dia, dicas de saúde, bem-estar, moda, beleza e fofocas do momento estão aqui na Band.(n)</desc>
+  <programme start="20200818080000 -0300" stop="20200818090000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200814110000 -0300" stop="20200814114500 -0300" channel="RBA TV">
-    <title lang="pt">Jogo Aberto</title>
-    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+  <programme start="20200818090000 -0300" stop="20200818092000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814114500 -0300" stop="20200814124500 -0300" channel="RBA TV">
-    <title lang="pt">Metendo Bronca</title>
-    <desc lang="pt">O Metendo Bronca é um programa policial que utiliza uma linguagem informal e dinâmica para interagir com o público.(n)</desc>
+  <programme start="20200818092000 -0300" stop="20200818093000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200814124500 -0300" stop="20200814135900 -0300" channel="RBA TV">
-    <title lang="pt">Barra Pesada</title>
-    <desc lang="pt">O Barra Pesada é um programa jornalístico-policial que tem como proposta divulgar os acontecimentos da comunidade, além da prestação de serviços de utilidade pública.(n)</desc>
+  <programme start="20200818093000 -0300" stop="20200818130000 -0300" channel="Combate FHD">
+    <title lang="pt">Clássicos do UFC</title>
   </programme>
-  <programme start="20200814135900 -0300" stop="20200814140000 -0300" channel="RBA TV">
-    <title lang="pt">Shop Mix</title>
-    <desc lang="pt">Em formato agradável e interativo, os apresentadores mostram na telinha produtos de qualidade, com variedades e preços acessíveis. Shop Mix um guia de compras na televisão.(n)</desc>
+  <programme start="20200818130000 -0300" stop="20200818140000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200814140000 -0300" stop="20200814150000 -0300" channel="RBA TV">
-    <title lang="pt">Igreja Universal</title>
-    <desc lang="pt">Informações aos fieis.(n)</desc>
+  <programme start="20200818140000 -0300" stop="20200818163000 -0300" channel="Combate FHD">
+    <title lang="pt">Clássicos do UFC</title>
   </programme>
-  <programme start="20200814150000 -0300" stop="20200814160000 -0300" channel="RBA TV">
-    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+  <programme start="20200818163000 -0300" stop="20200818173000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Series</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
   </programme>
-  <programme start="20200814160000 -0300" stop="20200814165900 -0300" channel="RBA TV">
-    <title lang="pt">Brasil Urgente</title>
+  <programme start="20200818173000 -0300" stop="20200818185000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200814165900 -0300" stop="20200814170000 -0300" channel="RBA TV">
-    <title lang="pt">Shop Mix</title>
-    <desc lang="pt">Em formato agradável e interativo, os apresentadores mostram na telinha produtos de qualidade, com variedades e preços acessíveis. Shop Mix um guia de compras na televisão.(n)</desc>
+  <programme start="20200818185000 -0300" stop="20200818190000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200814170000 -0300" stop="20200814185000 -0300" channel="RBA TV">
-    <title lang="pt">Brasil Urgente</title>
+  <programme start="20200818190000 -0300" stop="20200818200000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814185000 -0300" stop="20200814192000 -0300" channel="RBA TV">
-    <title lang="pt">Jornal RBA</title>
-    <desc lang="pt">Informação, modernidade e imparcialidade são palavras que definem o Jornal RBA.(n)</desc>
+  <programme start="20200818200000 -0300" stop="20200818203000 -0300" channel="Combate FHD">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate.(n)</desc>
   </programme>
-  <programme start="20200814192000 -0300" stop="20200814202000 -0300" channel="RBA TV">
-    <title lang="pt">Jornal da Band</title>
-    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade.(n)</desc>
+  <programme start="20200818203000 -0300" stop="20200819000000 -0300" channel="Combate FHD">
+    <title lang="pt">Escolha Seu Combate</title>
   </programme>
-  <programme start="20200814202000 -0300" stop="20200814211000 -0300" channel="RBA TV">
-    <title lang="pt">Ouro Verde</title>
-    <desc lang="pt">Após seus pais serem assassinados, Zé Maria foge para o Brasil e assume uma nova identidade. Anos depois, como Jorge Monforte, dono do império Ouro Verde, ele decide voltar para casa e vingar sua família.(n)</desc>
+  <programme start="20200819000000 -0300" stop="20200819020000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200814211000 -0300" stop="20200814220000 -0300" channel="RBA TV">
-    <title lang="pt">Religioso</title>
-    <desc lang="pt">Programa religioso da Igreja Mundial do Poder de Deus.(n)</desc>
+  <programme start="20200819020000 -0300" stop="20200819030000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Series</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
   </programme>
-  <programme start="20200814220000 -0300" stop="20200814224500 -0300" channel="RBA TV">
-    <title lang="pt">Band Notícias</title>
-    <desc lang="pt">Programa jornalístico com opinião e foco nos principais temas do dia, complementando os noticiários da Band.(n)</desc>
+  <programme start="20200819030000 -0300" stop="20200819040000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814224500 -0300" stop="20200815003000 -0300" channel="RBA TV">
-    <title lang="pt">Música Na Band: Guilherme e Santiago - Ao Vivo</title>
-    <desc lang="pt">A diversidade musical brasileira tem seu espaço assegurado na programação nobre da Band. Um desfile semanal de grandes nomes, com  estilos múltiplos e de grande popularidade.(n)</desc>
+  <programme start="20200819040000 -0300" stop="20200819043000 -0300" channel="Combate FHD">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate.(n)</desc>
   </programme>
-  <programme start="20200813004500 -0300" stop="20200813020000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Padre Brown</title>
-    <desc lang="pt">Padre Brown é um sacerdote católico que parece ter um talento especial para resolver crimes.(n)</desc>
+  <programme start="20200819043000 -0300" stop="20200819055000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200813020000 -0300" stop="20200813030000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Jornal da Cultura</title>
-    <desc lang="pt">No ar de segunda a sábado, o Jornal da Cultura apresenta os principais fatos do Brasil e do mundo, sempre com comentários de especialistas.(n)</desc>
+  <programme start="20200819055000 -0300" stop="20200819060000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200813030000 -0300" stop="20200813033000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Saúde Brasil</title>
-    <desc lang="pt">Além de orientação básica, o programa desmistifica preconceitos e mitos que envolvem várias doenças.(n)</desc>
+  <programme start="20200819060000 -0300" stop="20200819070000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200813033000 -0300" stop="20200813043000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Mosaicos</title>
-    <desc lang="pt">Programa de documentários musicais da TV Cultura relembra a trajetória de importantes artistas brasileiros.(n)</desc>
+  <programme start="20200819070000 -0300" stop="20200819080000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200813043000 -0300" stop="20200813050000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Cultura Retrô</title>
+  <programme start="20200819080000 -0300" stop="20200819090000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200813050000 -0300" stop="20200813053000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">História da Arte</title>
+  <programme start="20200819090000 -0300" stop="20200819092000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200813053000 -0300" stop="20200813063000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Inglês com Música</title>
-    <desc lang="pt">O programa ensina diversas letras de música em inglês.(n)</desc>
+  <programme start="20200819092000 -0300" stop="20200819093000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200813063000 -0300" stop="20200813070000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Energia</title>
+  <programme start="20200819093000 -0300" stop="20200819130000 -0300" channel="Combate FHD">
+    <title lang="pt">Clássicos do UFC</title>
   </programme>
-  <programme start="20200813070000 -0300" stop="20200813074500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Cocoricó</title>
-    <desc lang="pt">A série traz as aventuras da turminha formada por Júlio, as galinhas Lilica, Zazá e Lola, o cavalo Alípio e outros amigos que vivem histórias divertidas na Fazenda Cocoricó.(n)</desc>
+  <programme start="20200819130000 -0300" stop="20200819140000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200813074500 -0300" stop="20200813130000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Quintal da Cultura</title>
-    <desc lang="pt">De segunda a sábado os personagens do Quintal da Cultura reúnem conteúdo educativo e escolar, poesia, música, dança, cinema, história, artes plásticas e ciência, tudo com muita diversão e entretenimento.(n)</desc>
+  <programme start="20200819140000 -0300" stop="20200819163000 -0300" channel="Combate FHD">
+    <title lang="pt">Clássicos do UFC</title>
   </programme>
-  <programme start="20200813130000 -0300" stop="20200813134500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Jornal da Cultura 1ª Edição</title>
-    <desc lang="pt">Conta com noticiário nacional, matérias de São Paulo, especiais produzidos nas grandes cidades do interior e boletim esportivo.(n)</desc>
+  <programme start="20200819163000 -0300" stop="20200819173000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Series</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
   </programme>
-  <programme start="20200813134500 -0300" stop="20200813140000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Catalendas</title>
-    <desc lang="pt">Os contos fantásticos e as narrativas populares do folclore brasileiro são resgatadas no programa infantil Catalendas. Os apresentadores são dois bonecos de teatro que representam animais da floresta amazônica.(n)</desc>
+  <programme start="20200819173000 -0300" stop="20200819185000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200813140000 -0300" stop="20200813153000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Sem Censura Pará</title>
-    <desc lang="pt">São mais de 20 anos no ar com um estilo diferente de apresentar entrevistas, ao vivo, entre convidados de diversas áreas para discutir assuntos como política, economia, meio ambiente, saúde, comportamento, moda, arte, cultura.(n)</desc>
+  <programme start="20200819185000 -0300" stop="20200819190000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200813153000 -0300" stop="20200813163000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Todos em Casa Para Educação</title>
+  <programme start="20200819190000 -0300" stop="20200819200000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200813163000 -0300" stop="20200813173000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Todos em Casa Para Educação</title>
+  <programme start="20200819200000 -0300" stop="20200819203000 -0300" channel="Combate FHD">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate.(n)</desc>
   </programme>
-  <programme start="20200813173000 -0300" stop="20200813180000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Valentins</title>
-    <desc lang="pt">A série apresenta a trama de quatro irmãos que, após o desaparecimento dos pais, precisam aprender a viver sozinhos e desvendar os mistérios que envolvem sua família.(n)</desc>
+  <programme start="20200819203000 -0300" stop="20200820000000 -0300" channel="Combate FHD">
+    <title lang="pt">Escolha Seu Combate</title>
   </programme>
-  <programme start="20200813180000 -0300" stop="20200813181500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Infantil</title>
+  <programme start="20200820000000 -0300" stop="20200820020000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200813181500 -0300" stop="20200813183000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Catalendas</title>
-    <desc lang="pt">Os contos fantásticos e as narrativas populares do folclore brasileiro são resgatadas no programa infantil Catalendas. Os apresentadores são dois bonecos de teatro que representam animais da floresta amazônica.(n)</desc>
+  <programme start="20200820020000 -0300" stop="20200820030000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Series</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
   </programme>
-  <programme start="20200813183000 -0300" stop="20200813184500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Infantil</title>
+  <programme start="20200820030000 -0300" stop="20200820040000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200813184500 -0300" stop="20200813190000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Irmão do Jorel</title>
+  <programme start="20200820040000 -0300" stop="20200820043000 -0300" channel="Combate FHD">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate.(n)</desc>
   </programme>
-  <programme start="20200813190000 -0300" stop="20200813191500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Pé na Rua</title>
-    <desc lang="pt">Atração dedicada ao público jovem onde os telespectadores conferem dicas de filmes, CDs e livros, além de quadros feitos por eles, como o "Repórter Porque Quiz!" e "Chutar o Balde".(n)</desc>
+  <programme start="20200820043000 -0300" stop="20200820055000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200813191500 -0300" stop="20200813194500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Papo de Mãe</title>
-    <desc lang="pt">Papo de Mãe é um programa imperdível para quem vive as dores e as delícias da vida em família. São os adultos de hoje conversando sobre como formar da melhor maneira os adultos de amanhã.(n)</desc>
+  <programme start="20200820055000 -0300" stop="20200820060000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200813194500 -0300" stop="20200813201500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Urbanite</title>
-    <desc lang="pt">O programa discute como a cidade interfere na saúde e na qualidade de vida de seus habitantes, tudo sob as reflexões do médico patologista, doutor, livre-docente e professor universitário.(n)</desc>
+  <programme start="20200820060000 -0300" stop="20200820070000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200813201500 -0300" stop="20200813211500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Prelúdio 2019</title>
+  <programme start="20200820070000 -0300" stop="20200820080000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200813211500 -0300" stop="20200813221500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Jornal da Cultura</title>
-    <desc lang="pt">No ar de segunda a sábado, o Jornal da Cultura apresenta os principais fatos do Brasil e do mundo, sempre com comentários de especialistas.(n)</desc>
+  <programme start="20200820080000 -0300" stop="20200820090000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200813221500 -0300" stop="20200813224500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Circuito - TVC PA</title>
+  <programme start="20200820090000 -0300" stop="20200820092000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200813224500 -0300" stop="20200813231500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">O Brasil Depois da Crise</title>
-    <desc lang="pt">Programa especial sobre a crise da pandemia do Covid-19. Com apresentação de Ana Paula Couto e comentários de Ricardo Sennes, a atração vai ao ar todas as quartas, logo após o Opinião.(n)</desc>
+  <programme start="20200820092000 -0300" stop="20200820093000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200813231500 -0300" stop="20200813234500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Camarote.21</title>
-    <desc lang="pt">Programa de cultura que mostra toda a diversidade cultural da Europa, além de ser uma janela aberta para as novas tendências do mundo artístico.(n)</desc>
+  <programme start="20200820093000 -0300" stop="20200820130000 -0300" channel="Combate FHD">
+    <title lang="pt">Clássicos do UFC</title>
   </programme>
-  <programme start="20200813234500 -0300" stop="20200814001500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Cientistas Brasileiros Entre os Melhores</title>
-    <desc lang="pt">Em cada episódio, um cientista brasileiro fala sobre suas pesquisas em diversas áreas da ciência que tiveram reconhecimento internacional, ajudando no desenvolvimento científico e tecnológico mundial.(n)</desc>
+  <programme start="20200820130000 -0300" stop="20200820140000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate</title>
   </programme>
-  <programme start="20200814001500 -0300" stop="20200814004500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Pequeno Gigante - S1E1</title>
-    <desc lang="pt">Um incêndio destrói a comunidade de Davi, na Ilha de Itaparica. Adagilza, sua mãe, foge para Salvador remando um pequeno barco de pesca, levando seu filho assustado com o clarão das chamas.(n)</desc>
+  <programme start="20200820140000 -0300" stop="20200820163000 -0300" channel="Combate FHD">
+    <title lang="pt">Clássicos do UFC</title>
   </programme>
-  <programme start="20200814004500 -0300" stop="20200814014500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Padre Brown</title>
-    <desc lang="pt">Padre Brown é um sacerdote católico que parece ter um talento especial para resolver crimes.(n)</desc>
+  <programme start="20200820163000 -0300" stop="20200820173000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Series</title>
+    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos pelo UFC.(n)</desc>
   </programme>
-  <programme start="20200814014500 -0300" stop="20200814020000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Contos da Meia Noite</title>
-    <desc lang="pt">Contos da meia-noite apresenta contos de autores consagrados da literatura nacional lidos por grandes nomes da arte cênica brasileira.(n)</desc>
+  <programme start="20200820173000 -0300" stop="20200820185000 -0300" channel="Combate FHD">
+    <title lang="pt">Combate Brasil</title>
   </programme>
-  <programme start="20200814020000 -0300" stop="20200814030000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Jornal da Cultura</title>
-    <desc lang="pt">No ar de segunda a sábado, o Jornal da Cultura apresenta os principais fatos do Brasil e do mundo, sempre com comentários de especialistas.(n)</desc>
+  <programme start="20200820185000 -0300" stop="20200820190000 -0300" channel="Combate FHD">
+    <title lang="pt">Filler</title>
   </programme>
-  <programme start="20200814030000 -0300" stop="20200814033000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Saúde Brasil</title>
-    <desc lang="pt">Além de orientação básica, o programa desmistifica preconceitos e mitos que envolvem várias doenças.(n)</desc>
+  <programme start="20200820190000 -0300" stop="20200820200000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
   </programme>
-  <programme start="20200814033000 -0300" stop="20200814043000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Ensaio</title>
-    <desc lang="pt">No ar desde 1990, Ensaio traz a cada programa um artista diferente que, além de cantar, fala do trabalho, da vida particular e relembra casos vividos.(n)</desc>
+  <programme start="20200820200000 -0300" stop="20200820203000 -0300" channel="Combate FHD">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate.(n)</desc>
   </programme>
-  <programme start="20200814043000 -0300" stop="20200814053000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Entrelinhas</title>
-    <desc lang="pt">O Entrelinhas incentiva a leitura e divulga para o público a literatura de qualidade por meio de reportagens especiais e entrevistas.(n)</desc>
-  </programme>
-  <programme start="20200814053000 -0300" stop="20200814063000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Inglês com Música</title>
-    <desc lang="pt">O programa ensina diversas letras de música em inglês.(n)</desc>
-  </programme>
-  <programme start="20200814063000 -0300" stop="20200814070000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Energia</title>
-  </programme>
-  <programme start="20200814070000 -0300" stop="20200814074500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Cocoricó</title>
-    <desc lang="pt">A série traz as aventuras da turminha formada por Júlio, as galinhas Lilica, Zazá e Lola, o cavalo Alípio e outros amigos que vivem histórias divertidas na Fazenda Cocoricó.(n)</desc>
-  </programme>
-  <programme start="20200814074500 -0300" stop="20200814130000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Quintal da Cultura</title>
-    <desc lang="pt">De segunda a sábado os personagens do Quintal da Cultura reúnem conteúdo educativo e escolar, poesia, música, dança, cinema, história, artes plásticas e ciência, tudo com muita diversão e entretenimento.(n)</desc>
-  </programme>
-  <programme start="20200814130000 -0300" stop="20200814134500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Jornal da Cultura 1ª Edição</title>
-    <desc lang="pt">Conta com noticiário nacional, matérias de São Paulo, especiais produzidos nas grandes cidades do interior e boletim esportivo.(n)</desc>
-  </programme>
-  <programme start="20200814134500 -0300" stop="20200814140000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Catalendas</title>
-    <desc lang="pt">Os contos fantásticos e as narrativas populares do folclore brasileiro são resgatadas no programa infantil Catalendas. Os apresentadores são dois bonecos de teatro que representam animais da floresta amazônica.(n)</desc>
-  </programme>
-  <programme start="20200814140000 -0300" stop="20200814153000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Sem Censura Pará</title>
-    <desc lang="pt">São mais de 20 anos no ar com um estilo diferente de apresentar entrevistas, ao vivo, entre convidados de diversas áreas para discutir assuntos como política, economia, meio ambiente, saúde, comportamento, moda, arte, cultura.(n)</desc>
-  </programme>
-  <programme start="20200814153000 -0300" stop="20200814163000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Todos em Casa Para Educação</title>
-  </programme>
-  <programme start="20200814163000 -0300" stop="20200814173000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Todos em Casa Para Educação</title>
-  </programme>
-  <programme start="20200814173000 -0300" stop="20200814180000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Valentins</title>
-    <desc lang="pt">A série apresenta a trama de quatro irmãos que, após o desaparecimento dos pais, precisam aprender a viver sozinhos e desvendar os mistérios que envolvem sua família.(n)</desc>
-  </programme>
-  <programme start="20200814180000 -0300" stop="20200814181500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Infantil</title>
-  </programme>
-  <programme start="20200814181500 -0300" stop="20200814183000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Catalendas</title>
-    <desc lang="pt">Os contos fantásticos e as narrativas populares do folclore brasileiro são resgatadas no programa infantil Catalendas. Os apresentadores são dois bonecos de teatro que representam animais da floresta amazônica.(n)</desc>
-  </programme>
-  <programme start="20200814183000 -0300" stop="20200814190000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Infantil</title>
-  </programme>
-  <programme start="20200814190000 -0300" stop="20200814193000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Janelas da Gente</title>
-  </programme>
-  <programme start="20200814193000 -0300" stop="20200814194500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Infantil</title>
-  </programme>
-  <programme start="20200814194500 -0300" stop="20200814201500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Cinematográfico</title>
-  </programme>
-  <programme start="20200814201500 -0300" stop="20200814204500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Sacoleiras S/A</title>
-    <desc lang="pt">Série ficcional sobre o dia a dia da dentista Jô e sua atividade clandestina de sacoleira.(n)</desc>
-  </programme>
-  <programme start="20200814204500 -0300" stop="20200814211500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Minidocs</title>
-    <desc lang="pt">Minidocs Shows traz um show exclusivo do artista que figurou no Minidocs Documentarios, no programa de terça.(n)</desc>
-  </programme>
-  <programme start="20200814211500 -0300" stop="20200814221500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Jornal da Cultura</title>
-    <desc lang="pt">No ar de segunda a sábado, o Jornal da Cultura apresenta os principais fatos do Brasil e do mundo, sempre com comentários de especialistas.(n)</desc>
-  </programme>
-  <programme start="20200814221500 -0300" stop="20200814224500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Repórter Eco</title>
-    <desc lang="pt">Revista semanal especializada em meio ambiente. O programa mostra ações e pesquisas com o objetivo de contribuir para a melhoria da qualidade de vida e de informar sobre temas ambientais da atualidade.(n)</desc>
-  </programme>
-  <programme start="20200814224500 -0300" stop="20200814233000 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Águias da Cidade</title>
-    <desc lang="pt">Águias da Cidade reúne toda a ação que se passa na cabine dos helicópteros e centrais de atendimento, captando as alegrias e frustrações de seus protagonistas.(n)</desc>
-  </programme>
-  <programme start="20200814233000 -0300" stop="20200815001500 -0300" channel="Rede Cultura do Pará">
-    <title lang="pt">Terra Dois</title>
+  <programme start="20200820203000 -0300" stop="20200821000000 -0300" channel="Combate FHD">
+    <title lang="pt">Escolha Seu Combate</title>
   </programme>
 </tv>
